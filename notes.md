@@ -5,7 +5,7 @@
 - [x] Sukurti filų hierarchiją
 - [x] Susieti CSS failus, Font Awesome ir Bootstrap su HTML failais
 - [x] Sukurti SEO žymes HTML failuose tinklalapio informacijos atvaizdavimui
-- [ ] Sujunti repositoriją su GitHub paskyra
+- [x] Sujunti repositoriją su GitHub paskyra
 - [ ] Sukurti HTML failų šablonus:
 	- [ ] main.html
 	- [ ] playlist.html
