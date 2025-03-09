@@ -1,0 +1,65 @@
+body {
+    background-image: url('../img/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+.top-header {
+    background-color: rgb(18, 27, 34);
+    color: rgb(249, 251, 250);
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 10px 10px;
+}
+.header-left {
+    flex: 10%;
+    padding-left: 20px;
+}
+.header-right {
+    flex: 80%;
+    text-align: center;
+    padding-right: 10%;
+}
+.top-header img {
+    width: 80px;
+    height: 80px;
+}
+.top-header h1 {
+    font-weight: bold;
+    font-size: 48px;
+    padding-top: 10px;
+}
+
+.left-nav {
+    margin-left: 10px;
+}
+.right-nav {
+    display: flex;
+    margin-right: 15px;
+    gap: 30px;
+}
+.right-nav a {
+    display: flex; 
+    align-items: center;
+    text-decoration: none;
+}
+.right-nav i {
+    font-size: 28px;
+}
+.right-nav a{
+    font-size: 20px; 
+}
+.right-nav a, i {
+    color: rgb(197, 197, 197);
+}
+.right-nav a:hover, i:hover {
+    font-weight: bold;
+    color: rgb(238, 238, 238);
+}
+
+@media screen and (min-width: 1500px) {
+    .header-right {
+        flex: 85%;
+    }
+}

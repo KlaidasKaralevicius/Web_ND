@@ -1,0 +1,68 @@
+.fa-circle-user {
+    color:rgb(0, 255, 255) !important;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+    color: rgb(249, 251, 250);
+}
+
+.information {
+    margin-bottom: 20px;
+    display: flex;
+}
+.profile-picture {
+    width: 15vh;
+    height: 15vh;
+    border-radius: 50%;
+    background-color: rgb(18, 27, 34);
+    border: 1px solid rgb(154, 156, 158);
+    margin-left: 35%;
+}
+img {
+    width: 15vh;
+    height: 15vh;
+}
+li {
+    font-size: 1.4em;
+    margin-bottom: 25px;
+}
+
+form {
+    border: 1px solid rgb(154, 156, 158);
+    border-radius: 15px;
+    background-color: rgb(18, 27, 34);
+    margin-left: 30%;
+    margin-bottom: 30px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+}
+legend {
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 3px solid rgb(154, 156, 158);
+    padding-bottom: 10px !important;
+}
+input {
+    background-color: rgb(18, 27, 34) !important;
+    color: rgb(249, 251, 250) !important;
+    border: 1px solid rgb(154, 156, 158) !important;
+}
+.row button {
+    background-color: rgb(0, 87, 87) !important;
+    border: none !important;
+    color: rgb(249, 251, 250) !important;
+}
+.row button:hover {
+    font-weight: bold;
+    background-color: rgb(0, 161, 161) !important;
+}

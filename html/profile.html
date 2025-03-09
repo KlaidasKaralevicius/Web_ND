@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal information of your MI account">
     <meta name="Author" content="Klaidas Karalevičius">
     <title>MI profile</title>
     <link rel="stylesheet" href="../css/style.css">
@@ -11,6 +12,81 @@
     <script src="https://kit.fontawesome.com/bcc5191019.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    
+    <div class="top-header">
+        <div class="header-left">
+            <img src="../img/logo.png" alt="logo">
+        </div>
+        <div class="header-right">
+            <h1>Your profile</h1>
+        </div>
+    </div>
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container-fluid">
+            <div class="left-nav">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+            <div class="right-nav">
+                <a href="main.html" class="homepage">Homepage</a>
+                <a href="playlist.html" class="playlist">Playlist</a>
+                <a href="profile.html"><i class="fa-solid fa-circle-user"></i></a>
+            </div>
+        </div>
+    </nav>
+    <main>
+        <div class="row information">
+            <div class="col-4">
+                <div class="profile-picture">
+                    <img src="../img/logo.png">
+                </div>
+            </div>
+            <div class="col-8">
+                <ul>
+                    <li>Account name - MusicIO</li>
+                    <li>Email - musicIO@gmail.com</li>
+                    <li>Created playlists - 13</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row form">
+            <form>
+                <legend>Change your profile user name</legend>
+                <div class="mb-3">
+                    <label for="nameChange" class="form-label">Input your new name</label>
+                    <input type="name" class="form-control" id="nameChange" aria-describedby="nameHelp">
+                </div>
+                <button type="submit" class="btn btn-primary">Change</button>
+            </form>
+            <form>
+                <legend>Change your password</legend>
+                <div class="mb-3">
+                    <label for="changePass" class="form-label">Input your new password</label>
+                    <input type="password" class="form-control" id="changePass" aria-describedby="passHelp">
+                </div>
+                <div class="mb-3">
+                    <label for="changePassSecond" class="form-label">Repeat new password</label>
+                    <input type="password" class="form-control" id="changePassSecond" aria-describedby="passHelp">
+                </div>
+                <div class="mb-3">
+                    <label for="changePassConfirm" class="form-label">Input your old password</label>
+                    <input type="password" class="form-control" id="changePassConfirm">
+                </div>
+                <button type="submit" class="btn btn-primary">Change</button>
+            </form>
+            <form>
+                <legend>Change your email</legend>
+                <div class="mb-3">
+                    <label for="changeEmail" class="form-label">Input your new email</label>
+                    <input type="email" class="form-control" id="changeEmail" aria-describedby="emailHelp">
+                </div>
+                <div class="mb-3">
+                    <label for="changeEmailPass" class="form-label">Input your current password</label>
+                    <input type="password" class="form-control" id="changeEmailPass">
+                </div>
+                <button type="submit" class="btn btn-primary">Change</button>
+            </form>
+        </div>
+    </main>
 </body>
 </html>

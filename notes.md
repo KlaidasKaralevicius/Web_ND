@@ -6,16 +6,18 @@
 - [x] Susieti CSS failus, Font Awesome ir Bootstrap su HTML failais
 - [x] Sukurti SEO žymes HTML failuose tinklalapio informacijos atvaizdavimui
 - [x] Sujunti repositoriją su GitHub paskyra
-- [ ] Sukurti HTML failų šablonus:
-	- [ ] main.html
-	- [ ] playlist.html
-	- [ ] profile.html
-- [ ] Stilizuoti CSS failus:
-	- [ ] style.css
-	- [ ] main.css
-	- [ ] playlist.css
-	- [ ] profile.css
-- [ ] Sutvarkyti visus failus (formatuoti, perrašyti komentarus, panaikinti duplikatus ir nereikalingas tuščias vietas)
+- [X] Sukurti HTML failų šablonus:
+	- [X] bendras (visų puslapių pagrindas)
+	- [X] main.html
+	- [X] playlist.html
+	- [X] profile.html
+- [X] Stilizuoti CSS failus:
+	- [X] style.css
+	- [X] main.css
+	- [X] playlist.css
+	- [X] profile.css
+- [X] Sukurti ir sudėlioti tekstą HTML failuose
+- [X] Sutvarkyti visus failus (formatuoti, panaikinti duplikatus ir nereikalingas tuščias vietas)
 
 ## Papildoma informacija
 - Puslapių išdėstymą sukurti naudojant Bootsrap, CSS naudoti tik spalvom ar mažiem pakeitimam
