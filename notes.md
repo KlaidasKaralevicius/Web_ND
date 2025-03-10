@@ -22,7 +22,7 @@
 ## Papildoma informacija
 - Puslapių išdėstymą sukurti naudojant Bootsrap, CSS naudoti tik spalvom ar mažiem pakeitimam
 - style.css failas skirtas stilizuoti objektus kurie yra kiekviename HTML faile
-- CSS failai to pačio pavadinimo kai HTML failai skirti stilizuoti tik to pačio pavadinimo failus
-- Pagrindinis puslapis yra minimalus tik su paieškos funkciją ir naršymo juosta
+- CSS failai to pačio pavadinimo kaip HTML failai skirti stilizuoti tik to pačio pavadinimo failus
+- Pagrindinis puslapis yra minimalus tik su paieškos funkciją
 - Grojaraščio puslapis pakeičia paieškos puslapį į lentelę su muzikos pasirinkimu
 - Profilio puslapis pakeičią lentelę į formas skirtas pakeisti vartotojo duomenis ir sąrašas su vartotojo duomenimis
