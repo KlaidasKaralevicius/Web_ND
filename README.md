@@ -1,6 +1,6 @@
 # Projektas MusicIo - Online MP3
 
-Nuoroda į projektą: [Pagrindinis puslapis](https://klaidaskaralevicius.github.io/ND_1/main.html)
+Nuoroda į projektą: [Pagrindinis puslapis](https://klaidaskaralevicius.github.io/ND_1/html/main.html)
 
 ## Projekto aprašymas (Project description)
 
@@ -15,8 +15,8 @@ Nuoroda į projektą: [Pagrindinis puslapis](https://klaidaskaralevicius.github.
 ## Projekto struktūra (Project structure)
 
 - html aplankas (HTML failai)
-	- main.html
-	- playlist.html
+	- main.html (pagrindinis puslapis)
+	- playlist.html 
 	- profile.html
 - html aplankas (CSS failai)
 	- style.css (bendras CSS failas)
@@ -25,6 +25,7 @@ Nuoroda į projektą: [Pagrindinis puslapis](https://klaidaskaralevicius.github.
 	- profile.css
 - img aplankas (saugomi paveikslėliai)
 	- background.jpg
+ 	- ... 
 
 # Autorius (Author)
 
