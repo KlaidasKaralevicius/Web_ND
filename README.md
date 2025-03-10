@@ -24,8 +24,9 @@ Nuoroda į projektą: [Pagrindinis puslapis](https://klaidaskaralevicius.github.
 	- playlist.css
 	- profile.css
 - img aplankas (saugomi paveikslėliai)
-	- background.jpg
- 	- ... 
+	- background.jpg (puslapių fonas)
+ 	- logo.png (puslapio logotipas)
+  	- ... (kiti paveikslėliai naudojami konkretiems elementams) 
 
 # Autorius (Author)
 
