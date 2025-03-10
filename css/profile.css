@@ -46,11 +46,10 @@ form {
     align-items: center;
     width: 80%;
 }
-legend {
-    font-weight: bold;
+form h3 {
     text-align: center;
     border-bottom: 3px solid rgb(154, 156, 158);
-    padding-bottom: 10px !important;
+    padding-bottom: 15px !important;
 }
 input {
     background-color: rgb(18, 27, 34) !important;
