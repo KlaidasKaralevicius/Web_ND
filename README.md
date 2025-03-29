@@ -4,7 +4,7 @@ Nuoroda į projektą: [Pagrindinis puslapis](https://klaidaskaralevicius.github.
 
 ## Projekto aprašymas (Project description)
 
-Šio projekto tikslas - atvaizduoti galutinio veikienčio produkto atvaizdavimą ir veikimo idėją. Puslapis sukurtas naudojant HTML, CSS, Bootstrap ir JavaScript, funkcionalumo naudojant duomenų bazes arba API dar nėra, bet minimalus JS, kad parodyti kas turėtų vykti pilnai sukurtam puslapiui, šiuo metu yra sukurti. Puslapių paleidimui nereikalingi jokie įrankiai, jį galima pasiekti per interneto naršyklę pagal nuorodą pateiktą aukščiau.
+Šio projekto tikslas - atvaizduoti galutinio veikienčio produkto atvaizdavimą ir veikimo idėją. Puslapis sukurtas naudojant HTML, CSS, Bootstrap ir JavaScript, funkcionalumo naudojant duomenų bazes, API arba cookies dar nėra, bet minimalus JS, kad parodyti kas turėtų vykti pilnai sukurtam puslapiui, šiuo metu yra sukurti. Puslapių paleidimui nereikalingi jokie įrankiai, jį galima pasiekti per interneto naršyklę pagal nuorodą pateiktą aukščiau.
 
 ## Prokjekto funkcionalumas (Project functionality)
 
