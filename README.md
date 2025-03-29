@@ -14,20 +14,25 @@ Nuoroda į projektą: [Pagrindinis puslapis](https://klaidaskaralevicius.github.
 
 ## Projekto struktūra (Project structure)
 
-- html aplankas (HTML failai)
+- html aplankas (HTML failai):
 	- index.html (pagrindinis puslapis)
 	- login.html
 	- main.html
 	- playlist.html 
 	- profile.html
-- html aplankas (CSS failai)
+- html aplankas (CSS failai):
 	- style.css (bendras CSS failas)
  	- index.css
 	- login.css
 	- main.css
 	- playlist.css
 	- profile.css
-- img aplankas (saugomi paveikslėliai)
+- js aplankas (JavaScript failai):
+	- login.js
+	- main.js
+	- playlist.js
+	- profile.js
+- img aplankas (saugomi paveikslėliai):
 	- background.jpg (puslapių fonas)
  	- logo.png (puslapio logotipas)
   	- ... (kiti paveikslėliai naudojami konkretiems elementams) 
