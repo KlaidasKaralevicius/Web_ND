@@ -1,5 +1,7 @@
 # Užduotys:
-
+## Antra dalis
+- [ ] 
+## Pirma dalis
 - [x] Sukurti dizaino eskizą
 - [x] Sukurti notes.md ir readme.md failus
 - [x] Sukurti filų hierarchiją
@@ -19,7 +21,7 @@
 - [X] Sukurti ir sudėlioti tekstą HTML failuose
 - [X] Sutvarkyti visus failus (formatuoti, panaikinti duplikatus ir nereikalingas tuščias vietas)
 
-## Papildoma informacija
+### Papildoma informacija
 - Puslapių išdėstymą sukurti naudojant Bootsrap, CSS naudoti tik spalvom ar mažiem pakeitimam
 - style.css failas skirtas stilizuoti objektus kurie yra kiekviename HTML faile
 - CSS failai to pačio pavadinimo kaip HTML failai skirti stilizuoti tik to pačio pavadinimo failus
