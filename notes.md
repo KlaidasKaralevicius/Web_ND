@@ -1,6 +1,6 @@
 # Užduotys:
 ## Antra dalis
-- [ ] Sukurti pagrindinio ir Login puslapių dizainus
+- [x] Sukurti pagrindinio ir Login puslapių dizainus
 - [x] Pridėti informaciją apie antrą dalį į notes.md ir README.md
 - [ ] Sukurti HTML šablonus:
 	- [ ] index.html
