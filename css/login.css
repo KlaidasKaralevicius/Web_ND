@@ -1,3 +1,47 @@
-html {
-    background-color: rgb(18, 27, 34);
+body {
+    background-color: rgb(18, 27, 34) !important;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-box {
+    background-color: #353535;
+    color: rgb(240, 240, 240);
+    padding: 40px;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 800px;
+}
+.form-label {
+    margin-bottom: 4px;
+}
+.form-control {
+    margin-bottom: 16px;
+}
+.extra-links {
+    margin-top: 10px;
+}
+input {
+    background-color: rgb(235, 235, 235) !important;
+}
+legend {
+    font-size: 2em !important;
+    font-weight: 500;
+}
+button {
+    background-color: rgb(1, 129, 129) !important;
+    border: none !important;
+    color: rgb(249, 251, 250) !important;
+}
+button:hover {
+    font-weight: bold;
+    background-color: rgb(0, 161, 161) !important;
+}
+a {
+    color: rgb(247, 247, 247) !important;
+}
+a:hover {
+    color: rgb(0, 255, 255) !important;
+    font-weight: bold;
 }

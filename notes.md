@@ -2,15 +2,15 @@
 ## Antra dalis
 - [x] Sukurti pagrindinio ir Login puslapių dizainus
 - [x] Pridėti informaciją apie antrą dalį į notes.md ir README.md
-- [ ] Sukurti HTML šablonus:
-	- [ ] index.html
- 	- [ ] login.html
-- [ ] Sukurti CSS failus:
-	- [ ] index.html
-	- [ ] login.html
+- [x] Sukurti HTML šablonus:
+	- [x] index.html
+ 	- [x] login.html
+- [x] Sukurti CSS failus:
+	- [x] index.html
+	- [x] login.html
 - [ ] Patobulinti visus CSS failus su @media
 - [ ] Sukurti JS failus:
-	- [ ] login.js (surinkti login duomenis ir perkelti į main.html)
+	- [x] login.js (surinkti login duomenis ir perkelti į main.html)
  	- [ ] main.js (nurodyti input paduotą paiešką) (YouTube API kol kas dar nedaryti)
   	- [ ] playlist.js (paleisti animacijas kai paspaudžiama ant dainos ir pakeisti stilizavimą; keisti grojaraščius paspaudus ant šoninių mygtukų perkeliant kitą grojaraštį į vidurį ir pakeičiant atvaizdavimą)
   	- [ ] profile.js (iškviesti formas su pop-up ir pakeisti info)
