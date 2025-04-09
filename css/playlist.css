@@ -89,6 +89,15 @@ main {
     margin-bottom: -2px;
 }
 
+@media screen and (max-width: 780px) {
+    .arrow-left {
+        margin-left: 2%;
+    }
+    .arrow-right {
+        margin-left: -5px;
+        margin-right: 5px;
+    }
+}
 @media screen and (min-width: 1200px) {
     .row {
         gap: 10px;

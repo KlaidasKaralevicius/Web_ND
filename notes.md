@@ -8,13 +8,11 @@
 - [x] Sukurti CSS failus:
 	- [x] index.html
 	- [x] login.html
-- [ ] Patobulinti visus CSS failus su @media
+- [x] Patobulinti visus CSS failus su @media
 - [ ] Sukurti JS failus:
 	- [x] login.js (surinkti login duomenis ir perkelti į main.html)
- 	- [ ] main.js (nurodyti input paduotą paiešką) (YouTube API kol kas dar nedaryti)
-  	- [ ] playlist.js (paleisti animacijas kai paspaudžiama ant dainos ir pakeisti stilizavimą; keisti grojaraščius paspaudus ant šoninių mygtukų perkeliant kitą grojaraštį į vidurį ir pakeičiant atvaizdavimą)
-  	- [ ] profile.js (iškviesti formas su pop-up ir pakeisti info)
-- [ ] Pakeisti profile.html 
+  	- [x] playlist.js (atvaizduoti mažiau 'cards' kai neužtenka vietos)
+  	- [ ] profile.js (pakeisti info)
 ## Pirma dalis
 - [x] Sukurti dizaino eskizą
 - [x] Sukurti notes.md ir readme.md failus
