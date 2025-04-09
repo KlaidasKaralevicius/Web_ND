@@ -9,10 +9,10 @@
 	- [x] index.html
 	- [x] login.html
 - [x] Patobulinti visus CSS failus su @media
-- [ ] Sukurti JS failus:
+- [x] Sukurti JS failus:
 	- [x] login.js (surinkti login duomenis ir perkelti į main.html)
   	- [x] playlist.js (atvaizduoti mažiau 'cards' kai neužtenka vietos)
-  	- [ ] profile.js (pakeisti info)
+  	- [x] profile.js (pakeisti info)
 ## Pirma dalis
 - [x] Sukurti dizaino eskizą
 - [x] Sukurti notes.md ir readme.md failus
